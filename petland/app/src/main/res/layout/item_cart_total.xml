@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:elevation="3dp"
+    android:layout_margin="5dp"
+    android:background="@drawable/bg_fields_no_stroke"
+    android:layout_height="wrap_content">
+
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/montserrat_bold"
+        android:text="Order Summery"
+
+        android:textColor="@color/primary"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/amount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:ems="5"
+        android:fontFamily="@font/montserrat_medium"
+        android:gravity="start|top"
+        android:text="Subtotal"
+        android:textColor="@color/lightBlack"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="@+id/name"
+        app:layout_constraintTop_toBottomOf="@+id/name" />
+
+    <TextView
+        android:id="@+id/amount2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:ems="5"
+        android:fontFamily="@font/montserrat_medium"
+        android:gravity="start|top"
+        android:text="Vat"
+        android:textColor="@color/lightBlack"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="@+id/amount"
+        app:layout_constraintTop_toBottomOf="@+id/amount" />
+
+    <TextView
+        android:id="@+id/amount3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="30dp"
+        android:ems="5"
+        android:fontFamily="@font/montserrat_medium"
+        android:gravity="start|top"
+        android:text="Total"
+        android:textColor="@color/lightBlack"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/amount"
+        app:layout_constraintTop_toBottomOf="@+id/amount2"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/subtotal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="44dp"
+        android:fontFamily="@font/montserrat_bold"
+        android:text="20 $"
+        android:textColor="@color/primary"
+        android:textSize="17sp"
+        app:layout_constraintBottom_toBottomOf="@+id/amount"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/amount"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/vat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/montserrat_bold"
+        android:text="15 $"
+        android:textColor="@color/primary"
+        android:textSize="17sp"
+        app:layout_constraintBottom_toBottomOf="@+id/amount2"
+        app:layout_constraintStart_toStartOf="@+id/subtotal"
+        app:layout_constraintTop_toTopOf="@+id/amount2" />
+
+    <TextView
+        android:id="@+id/total"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/montserrat_bold"
+        android:text="20 $"
+        android:textColor="@color/primary"
+        android:textSize="17sp"
+        app:layout_constraintBottom_toBottomOf="@+id/amount3"
+        app:layout_constraintStart_toStartOf="@+id/vat"
+        app:layout_constraintTop_toTopOf="@+id/amount3" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

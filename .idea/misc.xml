@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mirry/Desktop/petLand/petland/app/src/main/res/drawable-v24/bg_fields_less_radius.xml" value="0.2175" />
+        <entry key="..\:/Users/Mirry/Desktop/petLand/petland/app/src/main/res/drawable-v24/bg_fields_no_stroke.xml" value="0.2175" />
+        <entry key="..\:/Users/Mirry/Desktop/petLand/petland/app/src/main/res/drawable-v24/bg_fields_small.xml" value="0.2175" />
+        <entry key="..\:/Users/Mirry/Desktop/petLand/petland/app/src/main/res/drawable-v24/more_selector.xml" value="0.2175" />
+        <entry key="..\:/Users/Mirry/Desktop/petLand/petland/app/src/main/res/drawable-v24/non_active_dot.xml" value="0.2175" />
+        <entry key="..\:/Users/Mirry/Desktop/petLand/petland/app/src/main/res/layout/fragment_admin_blogs.xml" value="0.21041666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="Android API 31 Platform" project-jdk-type="Android SDK" />
+</project>

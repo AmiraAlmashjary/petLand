@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_margin="10dp"
+    android:background="@color/background"
+    android:fitsSystemWindows="true"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/errorTV"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="10dp"
+        android:textAlignment="center"
+        android:textColor="@android:color/holo_red_dark"
+        android:visibility="gone" />
+
+    <EditText
+        android:id="@+id/Email_ET"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+
+        android:layout_marginBottom="5dp"
+        android:autofillHints="email"
+        android:background="@drawable/bg_fields"
+        android:hint="Email"
+        android:fontFamily="@font/montserrat_bold"
+        android:importantForAutofill="yes"
+        android:inputType="textEmailAddress"
+        android:lines="1"
+        android:outlineProvider="background"
+
+        android:textSize="17sp" />
+
+    <EditText
+
+        android:id="@+id/Password_ET"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:autofillHints="password"
+        android:background="@drawable/bg_fields"
+        android:hint="Password"
+        android:fontFamily="@font/montserrat_bold"
+        android:importantForAutofill="yes"
+        android:inputType="textPassword"
+        android:lines="1"
+        android:outlineProvider="background"
+
+        android:textSize="17sp" />
+
+    <Button
+        android:id="@+id/login_Button"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="@drawable/bg_button"
+        android:text="Log in"
+        android:fontFamily="@font/montserrat_bold"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        app:backgroundTint="@null" />
+
+    <TextView
+        android:id="@+id/dontHaveAccountBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="?attr/selectableItemBackground"
+        android:padding="5dp"
+        android:fontFamily="@font/montserrat_bold"
+        android:text="Don\'t have account? Signup now"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/forgotPassBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="?attr/selectableItemBackground"
+        android:padding="5dp"
+        android:fontFamily="@font/montserrat_bold"
+        android:text="Forgot Password?"
+        android:textColor="@color/black" />
+
+</LinearLayout>

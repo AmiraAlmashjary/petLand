@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182247851246",
+    "project_id": "pet-land-ac195",
+    "storage_bucket": "pet-land-ac195.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182247851246:android:9c7cdda17f5e05977b9fff",
+        "android_client_info": {
+          "package_name": "com.company.petLand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182247851246-ko9edgn1vnc71g8dqkjrib3ad9vueion.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ_iLg7Dama_j1nNXsdf4o1wdhp3PaLSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182247851246-ko9edgn1vnc71g8dqkjrib3ad9vueion.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

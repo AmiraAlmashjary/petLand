@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#fff</color>
+    <color name="primary">#003473</color>
+    <color name="primary2">#39D2C0</color>
+    <color name="lightBlack">#676767</color>
+    <color name="background">#f7f7f7</color>
+
+
+    <color name="dark">#7E22FF</color>
+    <color name="grey">#DCDCDC</color>
+    <color name="greylight">#F4F4F4</color>
+    <color name="ColorSearchPlate">#F4F2F2</color>
+    <color name="lightgrey">#F1F1F1</color>
+</resources>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:focusable="true"
+    android:clickable="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/profile"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="24dp"
+        android:background="@drawable/bg_fields_no_stroke"
+        android:drawableEnd="@drawable/ic_arrow_right"
+        android:elevation="4dp"
+        android:fontFamily="@font/montserrat_bold"
+        android:paddingStart="30dp"
+        android:paddingTop="20dp"
+        android:paddingEnd="40dp"
+        android:paddingBottom="20dp"
+        android:text="Pet Owner Profile"
+
+        android:textColor="@color/primary"
+        android:textSize="17sp"
+
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/bookings"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="24dp"
+        android:background="@drawable/bg_fields_no_stroke"
+        android:drawableEnd="@drawable/ic_arrow_right"
+        android:elevation="4dp"
+        android:fontFamily="@font/montserrat_bold"
+        android:paddingStart="30dp"
+        android:paddingTop="20dp"
+        android:paddingEnd="40dp"
+        android:paddingBottom="20dp"
+        android:text="Bookings"
+
+        android:textColor="@color/primary"
+
+
+        android:textSize="17sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/profile" />
+
+    <TextView
+        android:id="@+id/orders"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="24dp"
+        android:background="@drawable/bg_fields_no_stroke"
+        android:drawableEnd="@drawable/ic_arrow_right"
+        android:elevation="4dp"
+        android:fontFamily="@font/montserrat_bold"
+        android:paddingStart="30dp"
+        android:paddingTop="20dp"
+        android:paddingEnd="40dp"
+        android:paddingBottom="20dp"
+
+        android:text="Orders"
+        android:textColor="@color/primary"
+
+
+        android:textSize="17sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bookings" />
+
+    <TextView
+        android:id="@+id/privacyAndPolicies"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="24dp"
+        android:background="@drawable/bg_fields_no_stroke"
+        android:drawableEnd="@drawable/ic_arrow_right"
+        android:elevation="4dp"
+        android:fontFamily="@font/montserrat_bold"
+        android:paddingStart="30dp"
+        android:paddingTop="20dp"
+
+        android:paddingEnd="40dp"
+        android:paddingBottom="20dp"
+
+        android:text="Privacy And Policies"
+        android:textColor="@color/primary"
+        android:textSize="17sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/orders" />
+
+    <TextView
+        android:id="@+id/contactus"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="24dp"
+        android:background="@drawable/bg_fields_no_stroke"
+        android:drawableEnd="@drawable/ic_arrow_right"
+        android:elevation="4dp"
+        android:fontFamily="@font/montserrat_bold"
+        android:paddingStart="30dp"
+        android:paddingTop="20dp"
+
+        android:paddingEnd="40dp"
+        android:paddingBottom="20dp"
+
+        android:text="Contact Us"
+        android:textColor="@color/primary"
+        android:textSize="17sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/privacyAndPolicies" />
+
+    <Button
+        android:id="@+id/logOut"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        android:text="Log Out"
+
+        android:fontFamily="@font/montserrat_bold"
+
+        android:backgroundTint="@color/primary"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/contactus" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:focusable="true"  android:clickable="true"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:fillViewport="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="36dp"
+            android:orientation="vertical"
+
+            android:padding="15dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/montserrat_bold"
+                    android:gravity="start"
+                    android:padding="10dp"
+
+                    android:text="Region"
+
+                    android:textColor="@color/primary"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/region"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2.5"
+
+                    android:background="@drawable/bg_fields"
+                    android:fontFamily="@font/montserrat_bold"
+                    android:gravity="start"
+                    android:hint="Region"
+                    android:importantForAutofill="no"
+                    android:inputType="text"
+
+
+                    android:textSize="16sp" />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/montserrat_bold"
+                    android:gravity="start"
+                    android:padding="10dp"
+                    android:text="District"
+                    android:textColor="@color/primary"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/district"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2.5"
+                    android:background="@drawable/bg_fields"
+                    android:fontFamily="@font/montserrat_bold"
+                    android:gravity="start"
+                    android:hint="District"
+                    android:inputType="text"
+
+                    android:textSize="16sp" />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/montserrat_bold"
+                    android:gravity="start"
+                    android:padding="10dp"
+                    android:text="Street"
+                    android:textColor="@color/primary"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/street"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2.5"
+                    android:background="@drawable/bg_fields"
+                    android:fontFamily="@font/montserrat_bold"
+                    android:gravity="start"
+                    android:hint="Street"
+
+                    android:textSize="16sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/montserrat_bold"
+                    android:gravity="start"
+                    android:padding="10dp"
+                    android:text="Building Number"
+                    android:textColor="@color/primary"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/building"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2.5"
+                    android:background="@drawable/bg_fields"
+                    android:fontFamily="@font/montserrat_bold"
+                    android:gravity="start"
+                    android:hint="Building Number"
+                    android:maxLength="11"
+
+                    android:textSize="16sp"
+                    tools:layout_editor_absoluteX="146dp"
+                    tools:layout_editor_absoluteY="374dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/montserrat_bold"
+                    android:gravity="start"
+                    android:padding="10dp"
+                    android:text="Extras"
+                    android:textColor="@color/primary"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/extra"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2.5"
+
+                    android:background="@drawable/bg_fields_less_radius"
+                    android:fontFamily="@font/montserrat_bold"
+                    android:gravity="start"
+                    android:lines="3"
+                    android:inputType="textMultiLine"
+                    android:hint="Extra Info"
+                    android:maxLength="11"
+
+                    android:textSize="16sp"
+                  />
+            </LinearLayout>
+
+            <!--            <LinearLayout-->
+            <!--                android:layout_width="match_parent"-->
+            <!--                android:layout_height="wrap_content"-->
+            <!--                android:layout_margin="5dp"-->
+            <!--                android:orientation="horizontal">-->
+
+            <!--                <TextView-->
+            <!--                    android:layout_width="0dp"-->
+            <!--                    android:layout_height="match_parent"-->
+            <!--                    android:layout_weight="1"-->
+            <!--                    android:fontFamily="@font/rubik_regular"-->
+            <!--                    android:gravity="center"-->
+            <!--                    android:padding="10dp"-->
+            <!--                    android:text="Location :"-->
+            <!--                    android:textColor="@color/black"-->
+            <!--                    android:textSize="18sp"-->
+            <!--                    android:textStyle="bold" />-->
+
+            <!--                <TextView-->
+            <!--                    android:id="@+id/location"-->
+            <!--                    android:layout_width="0dp"-->
+            <!--                    android:layout_height="wrap_content"-->
+            <!--                    android:layout_weight="2"-->
+            <!--                    android:drawableEnd="@drawable/ic_location"-->
+            <!--                    android:drawablePadding="15dp"-->
+            <!--                    android:drawableTint="@color/grey"-->
+            <!--                    android:fontFamily="@font/lato_regular"-->
+            <!--                    android:gravity="center"-->
+            <!--                    android:inputType="textMultiLine"-->
+            <!--                    android:padding="10dp"-->
+            <!--                    android:text="location"-->
+            <!--                    android:textSize="18sp" />-->
+            <!--            </LinearLayout>-->
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/payBtn"
+            android:layout_width="120dp"
+            android:layout_height="70dp"
+
+            android:fontFamily="@font/montserrat_bold"
+            android:text="Pay"
+            android:textSize="16sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/linearLayout2"
+            app:layout_constraintVertical_bias="0.247" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

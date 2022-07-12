@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/homefood - Copy/app/src/main/res/drawable/ic_home.xml" value="0.2005" />
+        <entry key="..\:/Projects/homefood - Copy/app/src/main/res/drawable/ic_user.xml" value="0.157" />
+        <entry key="..\:/Projects/homefood - Copy/app/src/main/res/layout/dialog_add_product.xml" value="0.17760416666666667" />
+        <entry key="..\:/Projects/homefood - Copy/app/src/main/res/layout/dialog_imagepicker.xml" value="0.1734375" />
+        <entry key="..\:/Projects/homefood - Copy/app/src/main/res/layout/dialog_loading.xml" value="0.1734375" />
+        <entry key="..\:/Projects/homefood - Copy/app/src/main/res/layout/fragment_client_details.xml" value="0.264" />
+        <entry key="..\:/Projects/homefood - Copy/app/src/main/res/layout/fragment_client_families.xml" value="0.19166666666666668" />
+        <entry key="..\:/Projects/homefood - Copy/app/src/main/res/layout/fragment_client_profile.xml" value="0.11302083333333333" />
+        <entry key="..\:/Projects/homefood - Copy/app/src/main/res/layout/fragment_client_requests.xml" value="0.125" />
+        <entry key="..\:/Projects/homefood - Copy/app/src/main/res/layout/fragment_family_details.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/homefood - Copy/app/src/main/res/layout/fragment_family_orders.xml" value="0.1734375" />
+        <entry key="..\:/Projects/homefood - Copy/app/src/main/res/layout/fragment_family_products.xml" value="0.10989583333333333" />
+        <entry key="..\:/Projects/homefood - Copy/app/src/main/res/layout/fragment_family_profile.xml" value="0.16666666666666666" />
+        <entry key="..\:/Projects/homefood - Copy/app/src/main/res/layout/fragment_messages.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/homefood - Copy/app/src/main/res/layout/fragment_register_client.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/homefood - Copy/app/src/main/res/layout/fragment_register_family.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/homefood - Copy/app/src/main/res/layout/item_client_families.xml" value="0.22" />
+        <entry key="..\:/Projects/homefood - Copy/app/src/main/res/layout/item_client_orders.xml" value="0.4" />
+        <entry key="..\:/Projects/homefood - Copy/app/src/main/res/layout/item_dialog.xml" value="0.264" />
+        <entry key="..\:/Projects/homefood - Copy/app/src/main/res/layout/item_family_orders.xml" value="0.4" />
+        <entry key="..\:/Projects/homefood - Copy/app/src/main/res/layout/item_info_window.xml" value="0.11302083333333333" />
+        <entry key="..\:/Projects/homefood - Copy/app/src/main/res/layout/item_product.xml" value="0.14666666666666667" />
+        <entry key="..\:/Projects/homefood - Copy/app/src/main/res/layout/message_item_left.xml" value="0.3333333333333333" />
+        <entry key="..\:/Projects/homefood - Copy/app/src/main/res/layout/message_item_right.xml" value="0.3333333333333333" />
+        <entry key="..\:/Projects/homefood - Copy/app/src/main/res/layout/nav_header.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/homefood - Copy/app/src/main/res/layout/toolbar_messages.xml" value="0.1" />
+        <entry key="..\:/Projects/homefood/app/src/main/res/layout/activity_main.xml" value="0.103125" />
+        <entry key="..\:/Projects/homefood/app/src/main/res/layout/fragment_chats.xml" value="0.1" />
+        <entry key="..\:/Projects/petland/app/src/debug/res/menu/admin_menu.xml" value="0.19947916666666668" />
+        <entry key="..\:/Projects/petland/app/src/debug/res/menu/customer_menu.xml" value="0.19479166666666667" />
+        <entry key="..\:/Projects/petland/app/src/debug/res/menu/family_menu.xml" value="0.19947916666666668" />
+        <entry key="..\:/Projects/petland/app/src/debug/res/menu/home_menu.xml" value="0.19947916666666668" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable-v24/bg_fields_less_radius.xml" value="0.1585" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable-v24/bg_fields_no_stroke.xml" value="0.1575" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable-v24/bg_fields_no_stroke_more_radius.xml" value="0.1585" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable-v24/bg_fields_small.xml" value="0.1005" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable-v24/blog_selector.xml" value="0.1455" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable-v24/ic_more_not_selected.xml" value="0.1575" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable-v24/more_selector.xml" value="0.1575" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable-v24/mypets_selector.xml" value="0.1575" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable-v24/non_active_dot.xml" value="0.1575" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/active_dot.xml" value="0.1575" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/bg_button.xml" value="0.1575" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/bg_fields.xml" value="0.178" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/bg_items.xml" value="0.1575" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/bg_searchplate.xml" value="0.1585" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/female_rb_selector.xml" value="0.1575" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/home_selector.xml" value="0.1575" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/ic_add.xml" value="0.1585" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/ic_arrow_back.xml" value="0.139" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/ic_arrow_right.xml" value="0.1575" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/ic_blog.xml" value="0.1575" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/ic_blog_not_selected.xml" value="0.1455" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/ic_blog_selected.xml" value="0.1455" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/ic_cart.xml" value="0.1585" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/ic_grooming.xml" value="0.1575" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/ic_home.xml" value="0.1575" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/ic_home_not_selected.xml" value="0.1575" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/ic_hotel.xml" value="0.1575" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/ic_image_placeholder.xml" value="0.1" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/ic_minus.xml" value="0.1585" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/ic_more.xml" value="0.1575" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/ic_pet.xml" value="0.1575" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/ic_pet_not_selected.xml" value="0.1575" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/ic_profile.xml" value="0.1095" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/ic_profile_not_selected.xml" value="0.1575" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/ic_shop.xml" value="0.1575" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/ic_syringe.xml" value="0.1575" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/ic_user.xml" value="0.139" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/male_rb_selector.xml" value="0.1095" />
+        <entry key="..\:/Projects/petland/app/src/main/res/drawable/profile_selector.xml" value="0.1095" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/active_dot.xml" value="0.19947916666666668" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/activity_admin_main.xml" value="0.15104166666666666" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/activity_client_main.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/activity_main.xml" value="0.19947916666666668" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/activity_splash.xml" value="0.1875" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/custom_layout.xml" value="0.19947916666666668" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/dialog_add_product.xml" value="0.264" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/dialog_imagepicker.xml" value="0.1" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/dialog_loading.xml" value="0.18958333333333333" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_admin_add_article.xml" value="0.19947916666666668" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_admin_add_blog.xml" value="0.19947916666666668" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_admin_appointments.xml" value="0.19947916666666668" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_admin_blogs.xml" value="0.19947916666666668" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_admin_bookings.xml" value="0.1875" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_admin_home.xml" value="0.15104166666666666" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_admin_more.xml" value="0.1875" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_admin_shop.xml" value="0.16" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_article_details.xml" value="0.1875" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_blog_details.xml" value="0.19947916666666668" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_client_bookings.xml" value="0.18229166666666666" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_client_cart.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_client_contactus.xml" value="0.264" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_client_details.xml" value="0.1" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_client_home.xml" value="0.2" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_client_main.xml" value="0.19479166666666667" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_client_more.xml" value="0.2" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_client_new_grooming.xml" value="0.19947916666666668" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_client_new_hotel.xml" value="0.19947916666666668" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_client_new_pet.xml" value="0.19947916666666668" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_client_new_vet.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_client_orders.xml" value="0.19947916666666668" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_client_payment.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_client_pet_details.xml" value="0.2" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_client_pets.xml" value="0.19947916666666668" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_client_profile.xml" value="0.19947916666666668" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_client_requests.xml" value="0.19947916666666668" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_client_search.xml" value="0.19947916666666668" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_client_set_address.xml" value="0.2" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_client_terms.xml" value="0.2" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_family_admin.xml" value="0.16" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_family_details.xml" value="0.19479166666666667" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_family_main.xml" value="0.1" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_family_orders.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_family_products.xml" value="0.2" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_family_profile.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_family_requests.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_pet_shop.xml" value="0.19947916666666668" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_product_details.xml" value="0.264" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_register_client.xml" value="0.264" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_register_family.xml" value="0.19947916666666668" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/fragment_welcome.xml" value="0.2" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/item_admin_orders.xml" value="0.264" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/item_article.xml" value="0.264" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/item_blog.xml" value="0.264" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/item_cart_btn.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/item_cart_product.xml" value="0.264" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/item_cart_total.xml" value="0.4" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/item_client_bookings.xml" value="0.4" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/item_client_families.xml" value="0.19947916666666668" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/item_client_orders.xml" value="0.264" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/item_client_pets.xml" value="0.2" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/item_family_orders.xml" value="0.19947916666666668" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/item_info_window.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/item_product.xml" value="0.264" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/login_layout.xml" value="0.2" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/nav_header.xml" value="0.1" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/register_layout.xml" value="0.1" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/toolbar_common.xml" value="0.19479166666666667" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/toolbar_main.xml" value="0.19479166666666667" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/toolbar_messages.xml" value="0.19479166666666667" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/toolbar_register.xml" value="0.2" />
+        <entry key="..\:/Projects/petland/app/src/main/res/layout/toolbar_search.xml" value="0.19947916666666668" />
+        <entry key="..\:/Projects/petland/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Projects/petland/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/Mirry/Desktop/petLand/petland/app/src/debug/res/menu/admin_menu.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/Mirry/Desktop/petLand/petland/app/src/debug/res/menu/customer_menu.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/Mirry/Desktop/petLand/petland/app/src/debug/res/menu/home_menu.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/Mirry/Desktop/petLand/petland/app/src/main/res/drawable-v24/bg_fields_less_radius.xml" value="0.2235" />
+        <entry key="..\:/Users/Mirry/Desktop/petLand/petland/app/src/main/res/drawable-v24/bg_fields_no_stroke_more_radius.xml" value="0.2235" />
+        <entry key="..\:/Users/Mirry/Desktop/petLand/petland/app/src/main/res/drawable/active_dot.xml" value="0.2235" />
+        <entry key="..\:/Users/Mirry/Desktop/petLand/petland/app/src/main/res/drawable/ic_add.xml" value="0.2235" />
+        <entry key="..\:/Users/Mirry/Desktop/petLand/petland/app/src/main/res/drawable/ic_arrow_back.xml" value="0.2235" />
+        <entry key="..\:/Users/Mirry/Desktop/petLand/petland/app/src/main/res/layout/activity_admin_main.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/Mirry/Desktop/petLand/petland/app/src/main/res/layout/fragment_client_bookings.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/Mirry/Desktop/petLand/petland/app/src/main/res/layout/fragment_client_cart.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/Mirry/Desktop/petLand/petland/app/src/main/res/layout/fragment_client_profile.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/Mirry/Desktop/petLand/petland/app/src/main/res/layout/fragment_family_requests.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/Mirry/Desktop/petLand/petland/app/src/main/res/layout/item_client_orders.xml" value="0.22291666666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
