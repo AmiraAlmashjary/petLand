@@ -36,3 +36,11 @@ And more will be developed later on !
 ![image](https://user-images.githubusercontent.com/107756849/178602878-c05f7f93-722e-4fe6-b23d-ed0e4fb44b06.png)
 
 
+* To Download The App*
+
+
+![image](https://user-images.githubusercontent.com/107756849/178609392-14f753da-03b3-4f02-adba-7d5520a29d10.png)
+
+
+
+
