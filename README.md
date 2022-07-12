@@ -6,7 +6,7 @@
 It is a commercial App that combine everything that's needed by pets or pets owners to facilitate their lives and save time!
 -----------------------------
 Technologies:
-Developed by Java, MVVM design pattern is used 
+Developed by Java, MVVM design pattern is used and
 Firebase DB
 -----------------------------
 *Aims of this project:* 🐱
