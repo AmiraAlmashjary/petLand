@@ -3,11 +3,12 @@
                                      
                                      *Pet Land is where all your pets' needs!*
 
-It is a commercial App that combine everything that's needed by pets or pets owners to facilitate their lives and save time!
+Pet Land is a commercial App that combines everything that is needed by pets or pets owners to facilitate their lives and save time!
 -----------------------------
-Technologies:
-Developed by Java, MVVM design pattern is used and
-Firebase DB
+# Technologies:
+- Developed by Java
+- MVVM design pattern 
+- Firebase DB
 -----------------------------
 *Aims of this project:* 🐱
 
