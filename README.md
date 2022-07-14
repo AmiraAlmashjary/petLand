@@ -15,18 +15,18 @@ Pet Land is a commercial App that combines everything that is needed by pets or 
 This project aims to facilitate the process of taking care of pets for pet owners. By 
 gathering all of the needed services that pet owners are looking for in one 
 comprehensive local application. Taking into consideration that the application 
-is easy and friendly to use, where it is provide a good UX .
+is easy and friendly to use by providing a good UX .
 
 *Features of Pet Land Application* 😎
-- The application contains THREE main reservations sections (Vet Clinic - Grooming for Pets - Hotel Appointments )
-- The application provide the ability to purchase supplies from the E-Shop
-- A blog section Where users can publish articles to share experience.
-- A profile Section for pets (Where pet owner can add and manage all of his/her pets and save their info in one place)
+- The application gives the user access to THREE main services: Vet Clinics, Pet Grooming and Pet Hotel Appointments
+- The application provides the ability to purchase supplies from the E-Shop
+- A blog section where users can publish articles to share their experiences.
+- A profile section for pets (pet owners can add and manage all of his/her pets and save their info in one place)
 - The ability to have booking and orders history
 
 And more will be developed later on !
 
-*Both admin and User van Login from the same app*
+*Both admin and user can login from the same app*
 
 ------------------------
 ![image](https://user-images.githubusercontent.com/107756849/178602699-74d3a13c-769c-42a6-b432-ff3cd46f1f0f.png)
